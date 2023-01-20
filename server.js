@@ -26,6 +26,7 @@ app.get('/', (req, res) => {
     res.json({"message": "Welcome to Home"});
 });
 
+require('./app/routes/postRoute.js')(app);
 
 // listen for requests
 app.listen(5000, () => {
