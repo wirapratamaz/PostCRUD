@@ -10,14 +10,20 @@
 
 Package Dependencies
 This API is built using the following packages:
+<br>
 Express
+<br>
 Body-parser 
+<br>
 Nodemon
+<br>
 Mongoose
+<br>
 
 Getting Started
+<br>
 To run the API locally, you will need to have Node.js and npm installed on your machine.
-
+<br>
 Clone the repository: git clone 
 Install the dependencies: npm install 
 Start the server: npm run start
