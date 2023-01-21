@@ -1,6 +1,6 @@
 <h1>RESTful API Documentation</h1>
 
-##|HTTP Method|URL|Description|##
+|HTTP Method|URL|Description|
 |---|---|---|
 |`GET`|http://localhost:5000/post/ | Retrieve all posts |
 |`GET`|http://localhost:5000/post/{postId} | Retrieve a single post by its ID |
