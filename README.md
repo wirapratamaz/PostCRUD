@@ -18,17 +18,12 @@ Gophish returns the following status codes in its API:
 | 404 | `NOT FOUND` |
 | 500 | `INTERNAL SERVER ERROR` |
 
-Package Dependencies
+### Package Dependencies
 This API is built using the following packages:
-<br>
-Express
-<br>
-Body-parser 
-<br>
-Nodemon
-<br>
-Mongoose
-<br>
+- Express
+- Body-parser 
+- Nodemon
+- Mongoose
 
 Getting Started
 <br>
