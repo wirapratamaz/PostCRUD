@@ -27,10 +27,10 @@ This API is built using the following packages:
 
 ### Getting Started
 To run the API locally, you will need to have Node.js and npm installed on your machine.
-Clone the repository: 
+## Clone the repository: 
 - git clone https://github.com/wirapratamaz/PostCRUD
-Install the dependencies: 
+## Install the dependencies: 
 - npm install 
-Start the server: 
+## Start the server: 
 - npm run start
-The API will be running on http://localhost:5000
+## The API will be running on http://localhost:5000
