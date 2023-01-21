@@ -25,14 +25,12 @@ This API is built using the following packages:
 - Nodemon
 - Mongoose
 
-Getting Started
-<br>
+### Getting Started
 To run the API locally, you will need to have Node.js and npm installed on your machine.
-<br>
-Clone the repository: git clone https://github.com/wirapratamaz/PostCRUD
-<br>
-Install the dependencies: npm install 
-<br>
-Start the server: npm run start
-<br>
+Clone the repository: 
+- git clone https://github.com/wirapratamaz/PostCRUD
+Install the dependencies: 
+- npm install 
+Start the server: 
+- npm run start
 The API will be running on http://localhost:5000
